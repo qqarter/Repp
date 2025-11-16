@@ -1,0 +1,10 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('Generated minimal STEP for FPC single segment'),'2;1');
+FILE_NAME('fpc_single_segment.step','2025-11-16T00:00:00',('copilot'),('OpenAI'), '','');
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN'));
+ENDSEC;
+DATA;
+#1=PRODUCT('FPC single segment','FPC 5 LED segment',());
+ENDSEC;
+END-ISO-10303-21;
