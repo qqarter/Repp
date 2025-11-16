@@ -1,0 +1,5 @@
+%FSLAX24Y24*%
+%MOMM*%
+G04 Board outline (C-shape) - placeholder geometry. Exact outline must be taken from case STEP. *
+G04 Outline approximate: rectangle 80 mm length centered on X with cutouts per case. *
+M02*

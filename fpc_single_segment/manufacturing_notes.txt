@@ -1,0 +1,14 @@
+FAB notes for FPC vendor:
+- Material: Polyimide flex, single-sided
+- Total flex thickness (excluding stiffener): 0.10 - 0.15 mm
+- Copper: 1 oz (35 µm)
+- Surface finish: ENIG (solderable finish)
+- Minimum trace/space: 0.10 mm (confirm with fab)
+- V+/GND trace width: 0.5 mm (designed for ~0.24 A per segment)
+- Data trace width: 0.15 - 0.20 mm
+- Coverlay: Polyimide coverlay; openings only at pads (provide NC drill/gerber for coverlay)
+- No stiffener requested (note: handle with care during assembly)
+- Board outline: C-shape to match provided case STEP (blue groove). Provide mechanical punching to match locating features in case.
+- Test pads: VCC, GND, DATA_IN near case entry (label on fabrication drawing)
+- Tolerance: recommend ±0.1 mm unless vendor specifies otherwise
+- Provide Gerber RS-274X and NC drill files; include fabrication notes for coverlay.

@@ -1,0 +1,1 @@
+Retry upload: This is a retry placeholder indicating the assistant attempted to upload the final Gerber/STEP ZIP. The real Gerber/STEP generation is in progress and will be committed here once ready.

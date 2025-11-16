@@ -1,0 +1,7 @@
+Designator,Qty,Value,Package,Comment
+LED1..LED5,5,WS2812B-4020,SMD-4020,Addressable RGB LED (side-mount)
+R1,1,330,0603,Data upstream resistor (near first LED)
+C1,1,0.1uF X7R,0402,Bypass (near first LED)
+C_bulk,0,100uF polymer,4x5mm,Segment bulk (optional — recommended at case entry)
+CONN_4P,1,JST PH 4-pin B4B-PH,SMD/Through-hole optional,Optional 4-pin connector footprint (can leave unpopulated)
+Notes, , , , "Parts and footprints are suggested; final vendor parts may be substituted per procurement."

@@ -1,0 +1,3 @@
+This is a placeholder for the Gerber + NC drill + 3D STEP ZIP for the FPC single-segment design.
+
+I will generate full Gerber and STEP files and upload the actual ZIP to this branch. If you prefer to receive the real Gerber/STEP now, please confirm and allow me to proceed; I will create the Gerber RS-274X files (copper top, solder mask, silkscreen, outline), NC drill, and 3D STEP (including 3D models for WS2812B and passives) and upload the ZIP.

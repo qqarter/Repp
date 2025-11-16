@@ -1,0 +1,7 @@
+led_index,center_x_mm,center_y_mm,notes
+LED1,0.0,0.0,"起點中心"
+LED2,17.0,0.0
+LED3,34.0,0.0
+LED4,51.0,0.0
+LED5,68.0,0.0
+board_length_mm,80.0,,"建議板長 80 mm（含 margin）"
