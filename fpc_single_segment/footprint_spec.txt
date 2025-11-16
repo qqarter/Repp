@@ -1,0 +1,19 @@
+WS2812B-4020 side-mount footprint notes (to be used for final Gerber):
+- Use WS2812B-4020 datasheet pad dimensions as authoritative.
+- For hand/heatgun reflow friendliness pad sizes are slightly enlarged:
+  - VCC pad: nominal footprint ~1.2 x 0.8 mm (rectangular, long edge along board width)
+  - GND pad: nominal footprint ~1.2 x 0.8 mm
+  - DIN/DOUT pads: nominal footprint ~1.0 x 0.6 mm
+- Pad clearance / coverlay:
+  - Coverlay openings only at pad areas.
+- Pad placement relative to LED center:
+  - Place pads on the long side (side solder) per datasheet orientation.
+  - Data direction: DIN of LED_n connects to DOUT of LED_(n-1). Ensure orientation arrow on footprint matches data flow.
+- Data resistor:
+  - 330 Ω, 0603 placed within 1–2 mm of first LED's DIN pad.
+- Bypass cap:
+  - 0.1 µF X7R, 0402 (or 0603 if needed), placed adjacent to VCC/GND pad of first LED.
+- Segment tail:
+  - Provide 5 mm exposed bare pads (VCC, GND, DATA, NC) at board tail for direct solder.
+  - Additionally place JST-PH 4-pin footprint (B4B-PH or equivalent) adjacent to bare pads as optional connector footprint.
+- Final Gerber will use exact datasheet pad centers for solder reliability.
