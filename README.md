@@ -1,12 +1,15 @@
 # Taiwan Vendor Brand Research / 台灣廠商品牌調查
 
-Research project for identifying Taiwanese manufacturers with own brands suitable for international exhibitions.
+Research project for identifying Taiwanese manufacturers with **Taiwan-owned brands** suitable for international exhibitions.
+
+**Last Updated**: 2026-01-14 - Applied stricter criteria
 
 ## 📊 Project Overview
 
 This research analyzed **182 Taiwanese companies** to determine:
-- Which companies have their own brands (自有品牌)
-- Which are primarily OEM/ODM manufacturers
+- Which companies have their **own Taiwan brands** (台灣自有品牌)
+- Which are OEM/ODM manufacturers without brands
+- Which represent foreign brands
 - Which entities should be removed (associations, institutions, etc.)
 
 ## 📁 Files
@@ -16,13 +19,19 @@ This research analyzed **182 Taiwanese companies** to determine:
 - **RESEARCH_SUMMARY_EN.md** - English executive summary
 - **vendor_brands.csv** - Excel-compatible CSV data file
 
-## 🎯 Key Results
+## 🎯 Key Results (Updated)
 
 ### Statistics
 - **Total Companies**: 182
-- **Own Brand Manufacturers**: ~120 companies ✅
-- **OEM/ODM Focused**: ~49 companies ⚠️
-- **Recommended for Removal**: 13 entities ❌
+- **Taiwan Brand Manufacturers**: 115 companies ✅ (63.2%)
+  - Tier 1 Global Brands: 9 companies
+  - Tier 2 Notable Brands: 13 companies
+  - Other Taiwan Brands: 93 companies
+- **Recommended for Removal**: 67 companies ❌ (36.8%)
+  - No own brand (OEM/ODM): 44 companies
+  - Non-Taiwan brands: 4 companies
+  - Non-manufacturers: 13 companies
+  - Duplicates: 6 companies
 
 ### Top-Tier Global Brands (9 companies)
 1. **Delta Electronics** - Global power management leader
@@ -35,35 +44,56 @@ This research analyzed **182 Taiwanese companies** to determine:
 8. **Himax** - Global display IC leader
 9. **Etron** - Memory IC design leader
 
-### Removal Recommendations (13 entities)
-- Industry associations (TEEMA, TCA, TDUA)
-- Research institutes (ITRI, III, CSD, TTRI)
-- Academic institutions
-- Media companies
-- Government agencies
+### Removal Recommendations (67 entities - UPDATED)
+
+1. **Non-Manufacturers (13 companies)**: Industry associations (TEEMA, TCA, TDUA), research institutes (ITRI, III, CSD, TTRI), academic institutions, media companies, government agencies
+
+2. **No Own Brand (44 companies - NEW)**: OEM/ODM manufacturers, trading companies, agents without their own brands
+
+3. **Non-Taiwan Brands (4 companies - NEW)**: 
+   - Anritsu (Japan)
+   - Sankosha (Japan)  
+   - Taoglas (Ireland)
+   - EDAC (Canada)
 
 ## 📖 How to Use
 
 1. **For Exhibition Organizers**: 
-   - Prioritize inviting the 9 top-tier brands
-   - Consider the ~120 own-brand manufacturers
-   - Remove the 13 non-manufacturer entities
+   - **Prioritize**: The 9 tier-1 global Taiwan brands
+   - **Strongly consider**: The 13 tier-2 notable Taiwan brands
+   - **General invitation**: The 93 other Taiwan brand manufacturers
+   - **Remove**: The 67 entities (no brand / foreign brand / non-manufacturer)
 
 2. **For Data Analysis**:
    - Open `vendor_brands.csv` in Excel/Google Sheets
-   - Filter by "建議" column for recommendations
+   - Filter by "建議" column: 
+     - `保留-一線` = Tier 1 brands
+     - `保留-重點` = Tier 2 brands
+     - `保留` = Other Taiwan brands
+     - `刪除` = Remove
    - Sort by industry category or brand status
 
 3. **For Detailed Information**:
    - Read `台灣廠商品牌調查結果.md` for complete Chinese version
    - Read `RESEARCH_SUMMARY_EN.md` for English summary
 
+## 🔄 Update Log
+
+**2026-01-14 Update**: Applied stricter filtering criteria
+- Companies **without own brands** now recommended for removal (44 companies)
+- Companies with **non-Taiwan brands** now recommended for removal (4 companies)
+- Focus shifted to **Taiwan-owned brands only** for international brand exhibitions
+- Total removals increased from 13 to 67 companies
+
+Previous criteria accepted OEM/ODM companies conditionally. New criteria focuses exclusively on Taiwan brand promotion.
+
 ## 📅 Project Information
 
 - **Completion Date**: January 14, 2026
+- **Last Updated**: January 14, 2026
 - **Research Method**: Web search + official website verification
 - **Data Sources**: Company websites, industry platforms, news reports
 
 ---
 
-**Note**: This research is based on publicly available information. Please verify with companies directly before making final decisions.
+**Note**: This research is based on publicly available information. Brand ownership determined by company registration and brand origin. Please verify with companies directly before making final decisions.
