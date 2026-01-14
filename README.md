@@ -15,9 +15,9 @@ This research analyzed **182 Taiwanese companies** to determine:
 ## 📁 Files
 
 ### Main Reports
-- **台灣廠商品牌調查結果.md** - Complete Chinese report with detailed analysis
-- **RESEARCH_SUMMARY_EN.md** - English executive summary
-- **vendor_brands.csv** - Excel-compatible CSV data file
+- **台灣廠商品牌調查結果.md** - Complete Chinese report with detailed analysis and IFA hall recommendations
+- **RESEARCH_SUMMARY_EN.md** - English executive summary with IFA statistics
+- **vendor_brands.csv** - Excel-compatible CSV data file (now includes 'IFA展區建議' column)
 
 ## 🎯 Key Results (Updated)
 
@@ -74,10 +74,32 @@ This research analyzed **182 Taiwanese companies** to determine:
    - Sort by industry category or brand status
 
 3. **For Detailed Information**:
-   - Read `台灣廠商品牌調查結果.md` for complete Chinese version
+   - Read `台灣廠商品牌調查結果.md` for complete Chinese version with IFA hall recommendations
    - Read `RESEARCH_SUMMARY_EN.md` for English summary
+   - CSV includes 'IFA展區建議' column for filtering by exhibition hall
+
+## 🏢 IFA Berlin Exhibition Recommendations
+
+**Hall Distribution for 115 Taiwan Brand Companies:**
+- IFA Global Markets: 47 companies (40.9%) - B2B components
+- IFA Next: 28 companies (24.3%) - AI & innovation
+- Smart Home Hall: 13 companies (11.3%) - IoT & automation
+- Electronic Mobility: 6 companies (5.2%) - EV & automotive
+- Mass Communication: 4 companies (3.5%) - 5G & networking
+- Home Entertainment: 4 companies (3.5%) - Displays & AV
+- Fitness & Health: 3 companies (2.6%) - Medical devices
+- Home Appliances: 2 companies (1.7%) - Motors & cooling
+- Not Suitable: 8 companies (7.0%)
+
+See detailed company-by-hall listings in the Chinese report.
 
 ## 🔄 Update Log
+
+**2026-01-14 Update (IFA Hall Recommendations)**: Added IFA Berlin exhibition hall recommendations
+- Added 'IFA展區建議' column to CSV file
+- 115 Taiwan brand companies mapped to 11 IFA exhibition halls
+- Distribution: IFA Global Markets (47), IFA Next (28), Smart Home (13), and others
+- Detailed company-by-hall listings added to Chinese report
 
 **2026-01-14 Update**: Applied stricter filtering criteria
 - Companies **without own brands** now recommended for removal (44 companies)

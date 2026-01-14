@@ -144,3 +144,37 @@ The comprehensive table includes:
 - Brand names and product categories
 - Updated classification (Taiwan Brand / Remove)
 - Specific removal reasons for each non-qualifying company
+
+## IFA Berlin Exhibition Hall Recommendations
+
+Based on each company's industry category, product characteristics, and brand positioning, we have recommended suitable IFA Berlin exhibition halls:
+
+### Distribution Statistics
+
+- **IFA Global Markets**: 47 companies (40.9%) - B2B components, instruments
+- **IFA Next**: 28 companies (24.3%) - AI, innovation, startups
+- **Smart Home Hall (智慧居家館)**: 13 companies (11.3%) - IoT, automation, smart devices
+- **Not Suitable**: 8 companies (7.0%) - No matching hall
+- **Electronic Mobility Hall (電子移動館)**: 6 companies (5.2%) - EV, automotive electronics
+- **Mass Communication Hall (大眾通訊館)**: 4 companies (3.5%) - 5G, networking, communication
+- **Home Entertainment Hall (家庭娛樂館)**: 4 companies (3.5%) - Displays, audio-visual
+- **Fitness & Health Devices Area (健身健康裝置專區)**: 3 companies (2.6%) - Medical, health monitoring
+- **Home Appliances Hall (家庭用品館)**: 2 companies (1.7%) - Motors, cooling, appliances
+
+**Total**: 115 Taiwan brand companies with hall recommendations
+
+### Hall Descriptions
+
+1. **Audio Entertainment Hall (音響娛樂館)**: Audio equipment, speakers, headphones
+2. **Mass Communication Hall (大眾通訊館)**: 5G, networking, communication devices
+3. **Computer Gaming Hall (電腦遊戲館)**: Gaming peripherals and equipment
+4. **Home Entertainment Hall (家庭娛樂館)**: TVs, displays, audio-visual equipment
+5. **Home Appliances Hall (家庭用品館)**: Appliances, motors, cooling systems
+6. **Fitness & Health Devices Area (健身健康裝置專區)**: Health monitoring, medical devices, fitness equipment
+7. **Smart Home Hall (智慧居家館)**: IoT, home automation, smart devices
+8. **Electronic Mobility Hall (電子移動館)**: EV charging, automotive electronics, battery systems
+9. **Media Creation Hall (媒體創作館)**: Cameras, imaging, content creation
+10. **IFA Next**: Startups, AI, innovation
+11. **IFA Global Markets**: B2B components, instruments, industrial products
+
+For detailed company-by-hall listings, please refer to the Chinese report (台灣廠商品牌調查結果.md).
