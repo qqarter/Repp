@@ -12,14 +12,15 @@ This research analyzed 182 Taiwanese companies to determine their brand status f
 
 ### Key Statistics
 - **Total Companies**: 182
-- **Recommended to Keep (Taiwan Brands)**: 115 companies (63.2%)
+- **Recommended to Keep (Taiwan Brands)**: 113 companies (62.1%)
   - Tier 1 Global Brands: 9 companies
   - Tier 2 Notable Taiwan Brands: 13 companies
-  - Other Taiwan Brands: 93 companies
-- **Recommended for Removal**: 67 companies (36.8%)
+  - Other Taiwan Brands: 91 companies
+- **Recommended for Removal**: 69 companies (37.9%)
   - Non-manufacturers (associations, institutes, media): 13 companies
-  - No own brand (OEM/ODM only): 44 companies
+  - No own brand (OEM/ODM/trading/agents): 46 companies
   - Non-Taiwan brands: 4 companies
+  - Foreign company branches: 2 companies
   - Duplicates: 6 companies
 
 ### Top-Tier Global Brands (9 companies - Highest Priority)
@@ -47,7 +48,7 @@ This research analyzed 182 Taiwanese companies to determine their brand status f
 - AllKym (industrial IoT)
 - Sunplus (IC design)
 
-## Entities Recommended for Removal (67 items)
+## Entities Recommended for Removal (69 items)
 
 ### 1. Non-Manufacturers (13 items)
 
@@ -161,7 +162,7 @@ Based on each company's industry category, product characteristics, and brand po
 - **Fitness & Health Devices Area (健身健康裝置專區)**: 3 companies (2.6%) - Medical devices, health monitoring
 - **Home Appliances Hall (家庭用品館)**: 2 companies (1.7%) - Motors, cooling systems, appliances
 
-**Total**: 115 Taiwan brand companies with hall recommendations
+**Total**: 113 Taiwan brand companies with hall recommendations
 
 ### Hall Descriptions
 

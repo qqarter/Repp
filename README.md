@@ -23,13 +23,14 @@ This research analyzed **182 Taiwanese companies** to determine:
 
 ### Statistics
 - **Total Companies**: 182
-- **Taiwan Brand Manufacturers**: 115 companies ✅ (63.2%)
+- **Taiwan Brand Manufacturers**: 113 companies ✅ (62.1%)
   - Tier 1 Global Brands: 9 companies
   - Tier 2 Notable Brands: 13 companies
-  - Other Taiwan Brands: 93 companies
-- **Recommended for Removal**: 67 companies ❌ (36.8%)
-  - No own brand (OEM/ODM): 44 companies
+  - Other Taiwan Brands: 91 companies
+- **Recommended for Removal**: 69 companies ❌ (37.9%)
+  - No own brand (OEM/ODM/trading/agents): 46 companies
   - Non-Taiwan brands: 4 companies
+  - Foreign company branches: 2 companies
   - Non-manufacturers: 13 companies
   - Duplicates: 6 companies
 
@@ -44,25 +45,29 @@ This research analyzed **182 Taiwanese companies** to determine:
 8. **Himax** - Global display IC leader
 9. **Etron** - Memory IC design leader
 
-### Removal Recommendations (67 entities - UPDATED)
+### Removal Recommendations (69 entities - UPDATED)
 
 1. **Non-Manufacturers (13 companies)**: Industry associations (TEEMA, TCA, TDUA), research institutes (ITRI, III, CSD, TTRI), academic institutions, media companies, government agencies
 
-2. **No Own Brand (44 companies - NEW)**: OEM/ODM manufacturers, trading companies, agents without their own brands
+2. **No Own Brand (46 companies - UPDATED)**: OEM/ODM manufacturers, trading companies, agents without their own brands
 
-3. **Non-Taiwan Brands (4 companies - NEW)**: 
+3. **Non-Taiwan Brands (4 companies)**: 
    - Anritsu (Japan)
    - Sankosha (Japan)  
    - Taoglas (Ireland)
    - EDAC (Canada)
+
+4. **Foreign Company Branches (2 companies - NEW)**:
+   - JDI Taiwan (Japan Display Taiwan trading branch)
+   - MegaIn Taiwan (BVI company Taiwan branch)
 
 ## 📖 How to Use
 
 1. **For Exhibition Organizers**: 
    - **Prioritize**: The 9 tier-1 global Taiwan brands
    - **Strongly consider**: The 13 tier-2 notable Taiwan brands
-   - **General invitation**: The 93 other Taiwan brand manufacturers
-   - **Remove**: The 67 entities (no brand / foreign brand / non-manufacturer)
+   - **General invitation**: The 91 other Taiwan brand manufacturers
+   - **Remove**: The 69 entities (no brand / foreign brand / foreign branches / non-manufacturer)
 
 2. **For Data Analysis**:
    - Open `vendor_brands.csv` in Excel/Google Sheets
@@ -80,8 +85,8 @@ This research analyzed **182 Taiwanese companies** to determine:
 
 ## 🏢 IFA Berlin Exhibition Recommendations
 
-**Hall Distribution for 115 Taiwan Brand Companies (Updated):**
-- IFA Next: 42 companies (36.5%) - AI, innovation, professional instruments
+**Hall Distribution for 113 Taiwan Brand Companies (Updated):**
+- IFA Next: 41 companies (36.3%) - AI, innovation, professional instruments
 - IFA Global Markets: 33 companies (28.7%) - B2B OEM/ODM component suppliers
 - Smart Home Hall: 13 companies (11.3%) - IoT & automation
 - Electronic Mobility: 6 companies (5.2%) - EV & automotive
@@ -96,6 +101,13 @@ This research analyzed **182 Taiwanese companies** to determine:
 See detailed company-by-hall listings in the Chinese report.
 
 ## 🔄 Update Log
+
+**2026-01-14 Update (Trading Companies Removed)**: Stricter manufacturer verification
+- Removed trading companies, agents, and foreign company branches (5 companies)
+- Only pure Taiwan manufacturers with own brands retained
+- Verified company removed: 友士 (USE - trading company), 夏欣國際 (agent), 勝安貿易 (trading), 英屬維京群島商美佳印 (foreign branch), 台灣晶端顯示 (JDI Taiwan branch)
+- Total Taiwan brand manufacturers: 113 (was 115)
+- Total recommended for removal: 69 (was 67)
 
 **2026-01-14 Update (Product Information Added)**: Added main products column
 - New '主要產品' column added to CSV listing representative products for each company
