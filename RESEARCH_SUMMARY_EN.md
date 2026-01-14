@@ -180,3 +180,22 @@ Based on each company's industry category, product characteristics, and brand po
 **Note**: IFA Global Markets is specifically for B2B component manufacturers and OEM/ODM suppliers, not consumer-facing brands.
 
 For detailed company-by-hall listings, please refer to the Chinese report (台灣廠商品牌調查結果.md).
+
+## Data Structure
+
+CSV format with columns: 編號, 公司名稱, 產業類別, 自有品牌, 品牌英文, 主要產品, 備註, 建議, IFA展區建議
+
+**Column Descriptions:**
+- 編號: Company number
+- 公司名稱: Company name
+- 產業類別: Industry category
+- 自有品牌: Own brand (Chinese)
+- 品牌英文: Brand name (English)
+- **主要產品: Main products** (NEW - representative products for each company)
+- 備註: Notes/remarks
+- 建議: Recommendation (保留-一線/保留-重點/保留/刪除)
+- IFA展區建議: IFA exhibition hall recommendation
+
+Recommendations: `保留-一線` (tier 1), `保留-重點` (tier 2), `保留` (Taiwan brand), `刪除` (remove)
+
+IFA Hall Recommendations: Specific hall name or `*無合適展區*` for companies without suitable hall

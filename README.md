@@ -17,7 +17,7 @@ This research analyzed **182 Taiwanese companies** to determine:
 ### Main Reports
 - **台灣廠商品牌調查結果.md** - Complete Chinese report with detailed analysis and IFA hall recommendations
 - **RESEARCH_SUMMARY_EN.md** - English executive summary with IFA statistics
-- **vendor_brands.csv** - Excel-compatible CSV data file (now includes 'IFA展區建議' column)
+- **vendor_brands.csv** - Excel-compatible CSV data file (includes 'IFA展區建議' and '主要產品' columns)
 
 ## 🎯 Key Results (Updated)
 
@@ -96,6 +96,11 @@ This research analyzed **182 Taiwanese companies** to determine:
 See detailed company-by-hall listings in the Chinese report.
 
 ## 🔄 Update Log
+
+**2026-01-14 Update (Product Information Added)**: Added main products column
+- New '主要產品' column added to CSV listing representative products for each company
+- Main table and IFA section tables updated to include product information
+- Easier to understand each company's product offerings at a glance
 
 **2026-01-14 Update (IFA Classification Refinement)**: Improved IFA Global Markets definition
 - Redefined IFA Global Markets as "International OEM/ODM manufacturers and B2B component suppliers"
