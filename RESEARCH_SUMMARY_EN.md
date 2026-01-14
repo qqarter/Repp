@@ -149,32 +149,34 @@ The comprehensive table includes:
 
 Based on each company's industry category, product characteristics, and brand positioning, we have recommended suitable IFA Berlin exhibition halls:
 
-### Distribution Statistics
+### Distribution Statistics (Updated)
 
-- **IFA Global Markets**: 47 companies (40.9%) - B2B components, instruments
-- **IFA Next**: 28 companies (24.3%) - AI, innovation, startups
-- **Smart Home Hall (智慧居家館)**: 13 companies (11.3%) - IoT, automation, smart devices
+- **IFA Next**: 42 companies (36.5%) - AI technology, innovation, professional instruments, startups
+- **IFA Global Markets**: 33 companies (28.7%) - International OEM/ODM manufacturers and B2B component suppliers
+- **Smart Home Hall (智慧居家館)**: 13 companies (11.3%) - IoT, home automation, smart devices
 - **Not Suitable**: 8 companies (7.0%) - No matching hall
-- **Electronic Mobility Hall (電子移動館)**: 6 companies (5.2%) - EV, automotive electronics
-- **Mass Communication Hall (大眾通訊館)**: 4 companies (3.5%) - 5G, networking, communication
-- **Home Entertainment Hall (家庭娛樂館)**: 4 companies (3.5%) - Displays, audio-visual
-- **Fitness & Health Devices Area (健身健康裝置專區)**: 3 companies (2.6%) - Medical, health monitoring
-- **Home Appliances Hall (家庭用品館)**: 2 companies (1.7%) - Motors, cooling, appliances
+- **Electronic Mobility Hall (電子移動館)**: 6 companies (5.2%) - EV, automotive electronics, charging
+- **Mass Communication Hall (大眾通訊館)**: 4 companies (3.5%) - 5G, networking, wireless communication
+- **Home Entertainment Hall (家庭娛樂館)**: 4 companies (3.5%) - Displays, audio-visual equipment
+- **Fitness & Health Devices Area (健身健康裝置專區)**: 3 companies (2.6%) - Medical devices, health monitoring
+- **Home Appliances Hall (家庭用品館)**: 2 companies (1.7%) - Motors, cooling systems, appliances
 
 **Total**: 115 Taiwan brand companies with hall recommendations
 
 ### Hall Descriptions
 
-1. **Audio Entertainment Hall (音響娛樂館)**: Audio equipment, speakers, headphones
-2. **Mass Communication Hall (大眾通訊館)**: 5G, networking, communication devices
-3. **Computer Gaming Hall (電腦遊戲館)**: Gaming peripherals and equipment
-4. **Home Entertainment Hall (家庭娛樂館)**: TVs, displays, audio-visual equipment
-5. **Home Appliances Hall (家庭用品館)**: Appliances, motors, cooling systems
-6. **Fitness & Health Devices Area (健身健康裝置專區)**: Health monitoring, medical devices, fitness equipment
-7. **Smart Home Hall (智慧居家館)**: IoT, home automation, smart devices
-8. **Electronic Mobility Hall (電子移動館)**: EV charging, automotive electronics, battery systems
-9. **Media Creation Hall (媒體創作館)**: Cameras, imaging, content creation
-10. **IFA Next**: Startups, AI, innovation
-11. **IFA Global Markets**: B2B components, instruments, industrial products
+1. **IFA Next**: AI technology, innovative products, professional instruments, startups
+2. **IFA Global Markets**: International OEM/ODM manufacturers and B2B electronic component suppliers
+3. **Audio Entertainment Hall (音響娛樂館)**: Audio equipment, speakers, headphones
+4. **Mass Communication Hall (大眾通訊館)**: 5G, networking, communication devices
+5. **Computer Gaming Hall (電腦遊戲館)**: Gaming peripherals and equipment
+6. **Home Entertainment Hall (家庭娛樂館)**: TVs, displays, audio-visual equipment
+7. **Home Appliances Hall (家庭用品館)**: Appliances, motors, cooling systems
+8. **Fitness & Health Devices Area (健身健康裝置專區)**: Health monitoring, medical devices, fitness equipment
+9. **Smart Home Hall (智慧居家館)**: IoT, home automation, smart devices
+10. **Electronic Mobility Hall (電子移動館)**: EV charging, automotive electronics, battery systems
+11. **Media Creation Hall (媒體創作館)**: Cameras, imaging, content creation
+
+**Note**: IFA Global Markets is specifically for B2B component manufacturers and OEM/ODM suppliers, not consumer-facing brands.
 
 For detailed company-by-hall listings, please refer to the Chinese report (台灣廠商品牌調查結果.md).

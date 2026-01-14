@@ -80,9 +80,9 @@ This research analyzed **182 Taiwanese companies** to determine:
 
 ## 🏢 IFA Berlin Exhibition Recommendations
 
-**Hall Distribution for 115 Taiwan Brand Companies:**
-- IFA Global Markets: 47 companies (40.9%) - B2B components
-- IFA Next: 28 companies (24.3%) - AI & innovation
+**Hall Distribution for 115 Taiwan Brand Companies (Updated):**
+- IFA Next: 42 companies (36.5%) - AI, innovation, professional instruments
+- IFA Global Markets: 33 companies (28.7%) - B2B OEM/ODM component suppliers
 - Smart Home Hall: 13 companies (11.3%) - IoT & automation
 - Electronic Mobility: 6 companies (5.2%) - EV & automotive
 - Mass Communication: 4 companies (3.5%) - 5G & networking
@@ -91,9 +91,18 @@ This research analyzed **182 Taiwanese companies** to determine:
 - Home Appliances: 2 companies (1.7%) - Motors & cooling
 - Not Suitable: 8 companies (7.0%)
 
+**Note**: IFA Global Markets is specifically for B2B component manufacturers and OEM/ODM suppliers.
+
 See detailed company-by-hall listings in the Chinese report.
 
 ## 🔄 Update Log
+
+**2026-01-14 Update (IFA Classification Refinement)**: Improved IFA Global Markets definition
+- Redefined IFA Global Markets as "International OEM/ODM manufacturers and B2B component suppliers"
+- Moved professional instruments and consumer-facing brands to appropriate halls
+- IFA Global Markets reduced from 47 to 33 companies (28.7%)
+- IFA Next increased to 42 companies (36.5%), now includes professional instruments
+- More accurate hall assignments for consumer electronics exhibitions
 
 **2026-01-14 Update (IFA Hall Recommendations)**: Added IFA Berlin exhibition hall recommendations
 - Added 'IFA展區建議' column to CSV file

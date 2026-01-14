@@ -1,9 +1,9 @@
 編號,公司名稱,產業類別,自有品牌,品牌英文,備註,建議,IFA展區建議
 1,台灣區電機電子工業同業公會-TEEMA,機器人及智慧自動化,N/A,N/A,行業協會,刪除,-
-2,三大儀錶有限公司,先進儀器儀表,Flash Star,Flash Star,自有品牌,保留,IFA Global Markets
+2,三大儀錶有限公司,先進儀器儀表,Flash Star,Flash Star,自有品牌,保留,IFA Next
 3,上睿科技有限公司,電子零組件及配件,-,-,主要為代工，無自有品牌,刪除,-
 4,上靖光電股份有限公司,工業物聯及嵌入式系統,SUNLIKE,SUNLIKE,自有品牌,保留,*無合適展區*
-5,世駿電子股份有限公司,先進儀器儀表,TENMARS,TENMARS,台灣知名測量品牌,保留-重點,IFA Global Markets
+5,世駿電子股份有限公司,先進儀器儀表,TENMARS,TENMARS,台灣知名測量品牌,保留-重點,IFA Next
 6,亞克高科股份有限公司,電機及自動化設備,ARCT,ARCT,自有品牌,保留,智慧居家館
 7,仰勛企業有限公司,光電科技,-,-,主要為ODM，無自有品牌,刪除,-
 8,伍慶精密工業股份有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
@@ -50,7 +50,7 @@
 49,嘉信旋鈕股份有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
 50,嘉梅龍製網有限公司,電子零組件及配件,CHML,CHML,自有品牌,保留,IFA Global Markets
 51,嘉禾登科技有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
-52,固緯電子實業股份有限公司,先進儀器儀表,GW Instek,GW Instek,台灣最大測試儀器品牌,保留-一線,IFA Global Markets
+52,固緯電子實業股份有限公司,先進儀器儀表,GW Instek,GW Instek,台灣最大測試儀器品牌,保留-一線,IFA Next
 53,國立臺北科技大學(數位轉型科技研究中心),永續綠色能源,N/A,N/A,學術機構,刪除,-
 54,圖策科技股份有限公司,新創Big Bang,Graphen,Graphen,自有品牌,保留,IFA Next
 55,墨西哥索諾拉州,永續綠色能源,N/A,N/A,外國政府機構,刪除,-
@@ -71,16 +71,16 @@
 70,嵩揚企業有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
 71,希格諾科技股份有限公司,新創Big Bang,SignalPro,SignalPro,自有品牌,保留,IFA Next
 72,康揚企業股份有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
-73,得益工業儀器有限公司,先進儀器儀表,DEREE,DEREE,自有品牌,保留,IFA Global Markets
+73,得益工業儀器有限公司,先進儀器儀表,DEREE,DEREE,自有品牌,保留,IFA Next
 74,怡和國際股份有限公司,永續綠色能源,-,-,投資公司，無自有品牌,刪除,-
-75,悅特企業有限公司,先進儀器儀表,EIC,EIC,自有品牌,保留,IFA Global Markets
+75,悅特企業有限公司,先進儀器儀表,EIC,EIC,自有品牌,保留,IFA Next
 76,悅達科技股份有限公司,雲端應用、5G及寬頻通訊,YODA,YODA,自有品牌,保留,大眾通訊館
 77,慧誠智醫股份有限公司,AI科技暨應用,iMedtac,iMedtac,自有品牌,保留,IFA Next
 78,戴克智慧股份有限公司,AI科技暨應用,DAIKSO,DAIKSO,自有品牌,保留,智慧居家館
 79,承洧科技股份有限公司,電子零組件及配件,CWE,CWE,自有品牌,保留,IFA Global Markets
 80,承鴻光電股份有限公司,AI科技暨應用,Innvaslinx,Innvaslinx,自有品牌,保留,IFA Next
 81,振生半導體股份有限公司,AI科技暨應用,JMemTek,JMemTek,自有品牌,保留,IFA Next
-82,擎宏電子企業有限公司,先進儀器儀表,IDRC,IDRC,自有品牌,保留,IFA Global Markets
+82,擎宏電子企業有限公司,先進儀器儀表,IDRC,IDRC,自有品牌,保留,IFA Next
 83,新一智能股份有限公司,AI科技暨應用,OneSmart,OneSmart,自有品牌,保留,智慧居家館
 84,新加坡商意迪恩亞洲廣告有限公司台灣分公司,媒體區,N/A,N/A,媒體公司,刪除,-
 85,方浩電子有限公司,光電科技,-,-,主要為OEM，無自有品牌,刪除,-
@@ -92,7 +92,7 @@
 91,明創能源股份有限公司,永續綠色能源,-,-,系統整合，無自有品牌,刪除,-
 92,星陶科技股份有限公司,電子零組件及配件,Ceradex,Ceradex,自有品牌,保留,IFA Global Markets
 93,晟瑞電子股份有限公司,電子零組件及配件,SHORI,SHORI,自有品牌,保留,IFA Global Markets
-94,普動股份有限公司,先進儀器儀表,PUTON,PUTON,自有品牌,保留,IFA Global Markets
+94,普動股份有限公司,先進儀器儀表,PUTON,PUTON,自有品牌,保留,IFA Next
 95,晶曄有限公司,電子零組件及配件,Accordia,Accordia,自有品牌,保留,IFA Global Markets
 96,有電電機股份有限公司,電子零組件及配件,AMIGO,AMIGO,自有品牌,保留,IFA Global Markets
 97,李洲科技股份有限公司,電子零組件及配件,Oasistek,Oasistek,自有品牌,保留,IFA Global Markets
@@ -104,7 +104,7 @@
 103,極客家科技有限公司,新創Big Bang,-,-,服務提供商，無自有品牌,刪除,-
 104,樂齡智造科技股份有限公司,AI科技暨應用,LTPA,LTPA,自有品牌,保留,IFA Next
 105,永電工業股份有限公司,電子零組件及配件,HeatAct,HeatAct,自有品牌,保留,IFA Global Markets
-106,泰仕電子工業股份有限公司,先進儀器儀表,TES,TES,專業測量儀器品牌,保留-重點,IFA Global Markets
+106,泰仕電子工業股份有限公司,先進儀器儀表,TES,TES,專業測量儀器品牌,保留-重點,IFA Next
 107,浩興電子有限公司,AI科技暨應用,-,-,主要為OEM，無自有品牌,刪除,-
 108,淞英股份有限公司,電子零組件及配件,Sovran,Sovran,自有品牌,保留,IFA Global Markets
 109,瀚荃股份有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
@@ -142,7 +142,7 @@
 141,藏識科技有限公司,AI科技暨應用,PilotGaea,PilotGaea,自有品牌,保留,IFA Next
 142,虎門科技股份有限公司,光電科技,CADMEN,CADMEN,自有品牌,保留,*無合適展區*
 143,融欣電子工業股份有限公司,電子零組件及配件,JACKCON,JACKCON,自有品牌,保留,IFA Global Markets
-144,衡欣實業股份有限公司,先進儀器儀表,AZ Instrument,AZ Instrument,自有品牌,保留-重點,IFA Global Markets
+144,衡欣實業股份有限公司,先進儀器儀表,AZ Instrument,AZ Instrument,自有品牌,保留-重點,IFA Next
 145,裕中企業股份有限公司,電子零組件及配件,YIC,YIC,自有品牌,保留,IFA Global Markets
 146,裕麟實業有限公司,電子零組件及配件,RD Tools,RD Tools,自有品牌,保留,IFA Global Markets
 147,財團法人中衛發展中心,新創Big Bang,N/A,N/A,財團法人,刪除,-
@@ -154,24 +154,24 @@
 153,財團法人資訊工業策進會 -軟體技術研究院,AI科技暨應用,N/A,N/A,研究機構,刪除,-
 154,財團法人資訊工業策進會-數位轉型研究院,AI科技暨應用,N/A,N/A,研究機構,刪除,-
 155,越創科技(股)公司,AI科技暨應用,Viettron,Viettron,自有品牌,保留,IFA Next
-156,路昌電子企業股份有限公司,先進儀器儀表,Lutron,Lutron,自有品牌,保留-重點,IFA Global Markets
+156,路昌電子企業股份有限公司,先進儀器儀表,Lutron,Lutron,自有品牌,保留-重點,IFA Next
 157,路用股份有限公司,工業物聯及嵌入式系統,Really Useful,Really Useful,自有品牌,保留,*無合適展區*
 158,連靖企業股份有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
 159,遠播資訊股份有限公司,媒體區,N/A,N/A,媒體公司,刪除,-
 160,遠近科技股份有限公司,AI科技暨應用,UfOtouch,UfOtouch,自有品牌,保留,IFA Next
-161,邁世國際瑞星股份有限公司,先進儀器儀表,APPA,APPA,自有品牌(代理),保留,IFA Global Markets
-162,邁訊科技有限公司,先進儀器儀表,Meshlink,Meshlink,自有品牌,保留,IFA Global Markets
+161,邁世國際瑞星股份有限公司,先進儀器儀表,APPA,APPA,自有品牌(代理),保留,IFA Next
+162,邁訊科技有限公司,先進儀器儀表,Meshlink,Meshlink,自有品牌,保留,IFA Next
 163,酷鳩科技股份有限公司,AI科技暨應用,Murobox,Murobox,自有品牌,保留-重點,IFA Next
 164,金利橡膠股份有限公司,電子零組件及配件,Kingley,Kingley,自有品牌,保留,IFA Global Markets
 165,金宇科技股份有限公司,顯示科技,Vitek,Vitek,自有品牌,保留,家庭娛樂館
 166,金捷生物科技股份有限公司,AI科技暨應用,GeneJet,GeneJet,自有品牌,保留,IFA Next
 167,金泰工業有限公司,AI科技暨應用,JinTay,JinTay,自有品牌,保留,IFA Next
 168,金澤工業股份有限公司,電子零組件及配件,Goldenloch,Goldenloch,自有品牌,保留,IFA Global Markets
-169,金頓科技股份有限公司,先進儀器儀表,KDI,KDI,自有品牌,保留,IFA Global Markets
+169,金頓科技股份有限公司,先進儀器儀表,KDI,KDI,自有品牌,保留,IFA Next
 170,鈺創科技股份有限公司,AI科技暨應用,Etron,Etron,記憶體IC設計領導品牌,保留-一線,IFA Next
 171,鈺立微電子股份有限公司,AI科技暨應用,eYs3D,eYs3D,自有品牌,保留,IFA Next
 172,銳鋒股份有限公司,雲端應用、5G及寬頻通訊,Taoglas,Taoglas,愛爾蘭品牌，非台灣品牌,刪除,-
-173,錞鐿科技股份有限公司,先進儀器儀表,Brymen,Brymen,自有品牌,保留-重點,IFA Global Markets
+173,錞鐿科技股份有限公司,先進儀器儀表,Brymen,Brymen,自有品牌,保留-重點,IFA Next
 174,錸鑫科技股份有限公司,永續綠色能源,Lysine,Lysine,自有品牌,保留,*無合適展區*
 175,鍵科有限公司,電子零組件及配件,-,-,主要為OEM，無自有品牌,刪除,-
 176,阿波羅電力股份有限公司,永續綠色能源,RE100,RE100,自有品牌,保留,*無合適展區*
